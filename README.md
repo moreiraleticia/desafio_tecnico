@@ -1,5 +1,8 @@
 # desafio_tecnico
 Função  para descobrir os valores inteiros divisíveis por 3 e 5 inferiores de determinado Numero.
+
+
+
 function somaDivisiveisPor3e5(numero) {
     let soma = 0;
     for (let i = 0; i < numero; i++) {
